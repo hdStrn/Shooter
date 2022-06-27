@@ -1,6 +1,7 @@
 package badshooter.creatures;
 
-import badshooter.items.*;
+import badshooter.items.Item;
+import badshooter.items.Weapon;
 
 import java.util.List;
 import java.util.Scanner;

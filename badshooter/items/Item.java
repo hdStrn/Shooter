@@ -1,6 +1,5 @@
 package badshooter.items;
 
-import badshooter.Chance;
 import badshooter.creatures.Monster;
 import badshooter.creatures.Player;
 

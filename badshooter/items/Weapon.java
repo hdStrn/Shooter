@@ -3,8 +3,6 @@ package badshooter.items;
 import badshooter.Chance;
 import badshooter.creatures.Monster;
 
-import java.util.List;
-
 public abstract class Weapon extends Item {
 
     protected int accuracy;

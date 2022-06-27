@@ -1,7 +1,8 @@
 package badshooter.creatures;
 
-import badshooter.*;
-import badshooter.items.*;
+import badshooter.Chance;
+import badshooter.items.Item;
+import badshooter.items.Weapon;
 
 import java.util.List;
 
